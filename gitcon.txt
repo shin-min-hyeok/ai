@@ -32,3 +32,11 @@ git remote -v
 --------------------------------------------------------------------------------------------
 git pull origin master
 원격저장소로부터 로컬저장소(폴더)로 파일을 다운 받는방법
+
+git init
+git status
+git add .
+git commit -m "메세지"
+git remote add origin  깃 허브 주소
+git remote -v 저장소 확인
+git push origin master 
