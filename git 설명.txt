@@ -1,0 +1,9 @@
+Git.-버전관리 프로그램 (공유)
+ ↓
+trace-추적  파일 만들고->  명령어 - git init.
+
+폴더(working directory) -> 명령어- git add . ->  staying area 영역  → 
+
+명령어 git commit -m →Local storage  >>>>>github, remote storage (원격저장소)
+
+ 
